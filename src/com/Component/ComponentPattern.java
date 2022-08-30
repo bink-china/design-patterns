@@ -72,6 +72,4 @@ class Composite implements Component{
     public List<Component> getChildren() {
         return children;
     }
-
-
 }
