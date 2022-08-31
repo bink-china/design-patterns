@@ -1,4 +1,4 @@
-package com;
+package com.chain;
 
 /**
  * 责任链模式
