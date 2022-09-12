@@ -53,7 +53,7 @@ class MediatorImpl implements Mediator{
 }
 
 /**
- * 参与者抽象类
+ * 参与者抽象类,可以没有，参与者可以不是同一类
  */
 abstract class Component{
     public String name;
